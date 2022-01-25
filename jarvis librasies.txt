@@ -1,0 +1,15 @@
+lib required:--
+
+pyttsx3
+keyboard
+press_realse
+datetime 
+os 
+webbrowser
+speech_recognition
+wikipedia
+random
+python-firebases
+firebases
+
+else will update 
