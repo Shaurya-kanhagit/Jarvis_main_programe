@@ -231,11 +231,6 @@ if __name__== "__main__":
             #pehele query print kara and then make an entry in my sql database basixally query koo database mai add karva dee
             print("Jarvis :- I am still learning please try with this same query after sometime")
             print('inputing this query in Database {-----}')
-            
-            firebase = firebase.FirebaseApplication("https://jarvis-797d8-default-rtdb.firebaseio.com/",None)
-            data = {
-                'question':query
-            }
-            result = firebase.post('/jarvis-797d8-default-rtdb/Main_question',data)
+           
             # speak("I am still learning please try with this same query after sometime")
 ###
